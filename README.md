@@ -89,7 +89,9 @@ DEPENDENCIES
 CREDITS
 -------
 Lead Programmar & Architect: Shyam
+
 Game Design and Playtesting: Sam
+
 School: Old Bridge High School
 Date: February 2026
 Images: From https://github.com/AlejoG10/python-chess-ai-yt
